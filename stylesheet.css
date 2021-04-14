@@ -1,0 +1,45 @@
+		.header {
+		  margin: 0;
+		  padding: 1px 0px 0px;
+		  width: 100%;
+  		  height: 150px; 
+  		  background: #292929;
+  		  color: #8ddde3;
+		}
+
+		.headerin {
+		  margin: 0;
+		  padding: 10px;
+		  width: 100%;
+  		  height: 150px; 
+  		  background: #292929;
+  		  color: #8ddde3;
+		}
+
+		.content {
+		  margin: 0 auto;
+		  width: 800px;
+		  padding: 50px; 
+		  background: #525252;
+		  color: white;
+		}
+
+		.center{
+		  margin: auto;
+		}
+
+		th, td {
+		  padding: 5px;
+		}
+
+		h1 {
+		  color: #8ddde3;
+		}
+
+		li { display:inline; }
+
+		.center {
+		  display: flex;
+		  justify-content: center;
+		  align-items: center;
+		}
